@@ -19,5 +19,5 @@ class Solution:
         return result
 
 # Example use
-tf = Solution("2356")
+tf = Solution("23")
 print(tf.letter_combinations())
